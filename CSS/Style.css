@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background: lightgrey;
+}
+
+
+
+.member__heading {
+  font-size: 35px;
+  color: white;
+  margin: 50px;
+}
+
+.member__text {
+  background-color: wheat;
+}
+
+.member__label {
+  font-size: 20px;
+  margin: 50px;
+}
