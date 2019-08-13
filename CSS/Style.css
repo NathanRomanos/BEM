@@ -2,11 +2,17 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: geneva;
 }
 
 
 body {
   background: lightgrey;
+}
+
+
+h2 {
+  margin-left: 50px;
 }
 
 
@@ -24,4 +30,10 @@ body {
 .member__label {
   font-size: 20px;
   margin: 50px;
+}
+
+.member__label--heading {
+  font-size: 25px;
+  margin: 50px;
+  font-weight: bold;
 }
